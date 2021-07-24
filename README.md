@@ -3,11 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mridultailor&label=Profile%20views&color=0e75b6&style=flat" alt="mridultailor" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Links:</h3>
 <p align="left">
  <a href="https://www.linkedin.com/in/mridul-tailor-0534a4194/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="mikk069" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mikk069" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mikk069" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mikk069" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="mikk069" height="30" width="40" /></a>
+ <a href="https://leetcode.com/mikk069/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="mikk069" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
