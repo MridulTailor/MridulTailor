@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mridul</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">Hey There 👋, I'm Mridul</h1>
+<h3 align="center">A Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mridultailor&label=Profile%20views&color=0e75b6&style=flat" alt="mridultailor" /> </p>
 
