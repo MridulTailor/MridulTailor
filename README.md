@@ -19,5 +19,10 @@
 </p>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mridultailor&show_icons=true&locale=en&layout=compact" alt="mridultailor" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mridultailor&show_icons=true&locale=en" alt="mridultailor" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MridulTailor&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MridulTailor&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MridulTailor&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MridulTailor&theme=radical&no-frame=true&no-bg=false&margin-w=4)
