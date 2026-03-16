@@ -8,7 +8,7 @@
 - Data/Infra: PySpark · Databricks · Airflow · ETL · SQL  
 - Cloud/DevOps: AWS · Azure · Docker · Kubernetes · CI/CD
 
-**Portfolio:** https://www.mridul-tailor.vercel.app  
+**Portfolio:** https://mridul-tailor.vercel.app/  
 **LinkedIn:** https://www.linkedin.com/in/mridul-tailor  
 **Email:** mtailor729@gmail.com
 
